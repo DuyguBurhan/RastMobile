@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="49.302" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Holistik Tip Odeme Sayfası Negatif Testi" name="odemeSayfasi" time="48.926">
+<system-out><![CDATA[
+Given kullanici url ye gider................................................passed
+When kullanici login olur...................................................passed
+And kullanici sepete urun ekler.............................................passed
+And sepetteki urun icin gecersiz kart bilgileri girer.......................passed
+And yanlis kart bilgileri ile odeme yapilamadigini dogrular.................passed
+Then sayfayi kapatir........................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
